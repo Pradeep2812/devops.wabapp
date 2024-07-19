@@ -1,2 +1,1 @@
-hello new thing
-hello boss
+hello
